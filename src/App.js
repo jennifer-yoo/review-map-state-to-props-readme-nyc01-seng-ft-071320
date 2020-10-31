@@ -17,7 +17,7 @@ class App extends Component {
     });
   }
 
-  render() {
+  render() { 
     // debugger;
     return (
       <div className="App">
